@@ -1,6 +1,11 @@
 import tkinter as tk
 from tkinter import ttk
 
+"""
+Kalo ini versi pak jerry yang mana indexnya dimulai dari 1 dan bukan 0
+This is Mr. Jerry version where the index start from 1 instead of 0
+"""
+
 letters = ['','A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P',
           'Q','R','S','T','U','V','W','X','Y','Z']
 
